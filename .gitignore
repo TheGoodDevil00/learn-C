@@ -1,2 +1,5 @@
+# exclude the build outputs and artifacts
 *.exe
+
+#exclude the editor config
 .vscode
