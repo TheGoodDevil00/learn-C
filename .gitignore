@@ -3,6 +3,7 @@
 
 #exclude the editor config
 .vscode
+.zed
 
 #exclude the reference text
 *.pdf
