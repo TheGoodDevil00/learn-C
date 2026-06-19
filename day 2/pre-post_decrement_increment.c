@@ -17,6 +17,6 @@ int main(void){
     printf("l is %d and m is %d ",l,m);
     /*herein the difference in the output of m and k suggests
     that the function of a pre and post increment or decrement
-    operator is different, the former is evaluated after the expression
-    is run and the latter before running the expression*/
+    operator is different, the former is evaluated after the 
+    expression is run and the latter before running the expression*/
 }
