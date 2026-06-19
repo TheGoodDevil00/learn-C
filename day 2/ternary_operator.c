@@ -8,4 +8,5 @@ int main(void){
         y+=17;
     else
         y+=37;
+    printf("The number %d is %s",x, x % 2 == 0? "even":"odd");
 }
